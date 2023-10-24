@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign posts = paginator.posts | default: site.posts %}
+<div class="articles-compact">
+{% for post in posts %}  
+  <div class="articles-compact-entry">
+  <article>
+
+    <a href="{{ post.url | absolute_url }}" class="articles-compact-title">
+    {{ post.title | strip_html }} 
+    </a>
+    
+    <div class="articles-compact-date">
+    {% assign date_format = site.date_format | default: "%B %-d, %Y" %}      
+    {{ post.date | date: date_format }}
+    </div>
+    
+  </article>
+  </div>
+  </div>
+
+{% endfor %}
+
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if paginator.previous_page %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

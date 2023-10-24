@@ -1,0 +1,24 @@
+.articles-compact {
+  margin-top: 20px;
+}
+
+.articles-compact-entry:after {
+  content:  "";
+  display:  table;
+  clear:    both;  
+}
+
+
+.articles-compact-title {
+  float:left;
+  width:75%;
+}
+
+.articles-compact-date {
+  float:left;
+  width:25%;
+}
+
+.text-center {
+  text-align: center;
+}

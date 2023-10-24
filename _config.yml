@@ -20,7 +20,11 @@ author: Adam Blahuta
 ###############################################
 
 navbar-links:
-  # About Me: "aboutme"
+  Home: "index"
+  Articles: "articles"
+  Projects: "projects"
+  Bookshelf: "bookshelf"
+
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"  
