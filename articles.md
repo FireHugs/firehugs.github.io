@@ -1,5 +1,5 @@
 ---
 layout: articles-compact
 title: Articles
-# subtitle:
+cover-img: /assets/img/lake.jpg
 ---
