@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Lead with Curiosity
+cover-img: /assets/img/posts/mountain.png
 # subtitle: There's lots to learn!
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # tags: [test]
 # comments: true
 ---
-
+<br><br>
 Have you ever regretted a strong reaction to something someone said or did once you realized you had jumped to conclusions? Or failed to provide effective feedback about it because you hit a wall of defensiveness?
 
 As someone who values being direct when something needs to be challenged, and whose job involves regularly wading into contentious debates and decisions, this has happened to me often enough to care deeply about doing better.
