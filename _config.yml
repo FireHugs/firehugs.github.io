@@ -21,8 +21,7 @@ author: Adam Blahuta
 
 navbar-links:
   Home: "index"
-  Articles: "articles"
-  Projects: "projects"
+  Articles: "articles"  
   Bookshelf: "bookshelf"
 
   # Resources:
