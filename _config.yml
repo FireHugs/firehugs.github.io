@@ -20,7 +20,10 @@ author: Adam Blahuta
 ###############################################
 
 navbar-links:
-  # About Me: "aboutme"
+  Home: "index"
+  Articles: "articles"  
+  Bookshelf: "bookshelf"
+
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"  
@@ -50,7 +53,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "adam.blahuta@gmail.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
   github: firehugs
 # twitter: daattali
@@ -89,9 +92,9 @@ rss-description: A feed of my thoughts
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  #twitter: true
+  #facebook: true
+  #linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -162,7 +165,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-ZKXXC3DJSV"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -255,7 +258,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+# paginate: 5
 
 kramdown:
   input: GFM

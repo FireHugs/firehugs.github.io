@@ -1,0 +1,63 @@
+.articles-compact {
+  padding-top: 50px;
+  margin-top: 20px;
+}
+
+.articles-compact-entry:after {
+  content:  "";
+  display:  table;
+  clear:    both;  
+}
+
+
+.articles-compact-title {
+  float:left;
+  width:75%;
+}
+
+.articles-compact-date {
+  float:left;
+  width:25%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.book-entry {
+  height: 350px;
+  display:  flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.book-entry:after {
+  content:  ""; 
+  clear:    both;  
+}
+
+.book-entry-image {  
+  float:left;
+  width: 25%;  
+}
+
+.book-entry-text {
+  float:left;
+  width:75%;
+  height:100%;  
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.book-entry-quote {  
+  height:30%;    
+  padding: 60px 20px;
+  font-style: italic;
+  color:grey;
+}
+
+.book-entry-thoughts {  
+  height:70%;  
+  padding: 60px 20px;  
+}
