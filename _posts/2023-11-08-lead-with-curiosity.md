@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lead with Curiosity
-cover-img: /assets/img/posts/mountain.png
+cover-img: ["/assets/img/posts/mountain.png" : "Zooming past Mount Rainier on a train to Seattle, 2023"]
 # subtitle: There's lots to learn!
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
