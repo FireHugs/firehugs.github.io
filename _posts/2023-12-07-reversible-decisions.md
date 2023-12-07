@@ -73,7 +73,7 @@ In this quest for data, pay attention to your bias to discount the options you u
 
 If someone comes to you with something they want to try where the stakes can be kept low, avoid defaulting to making them prove its value through elaborate estimation exercises, technical reports and the like. Even if you personally think it's the wrong choice, consider giving them the opportunity to try it anyway if they feel strongly about it. Maybe they'll surprise you! Proofs of concept have a way of teaching us a lot more than documents. And even if you're right in the end, at least they'll naturally arrive at the same conclusion as you with a first-hand lesson and greater trust.
 
-## Know what would make you change your mind
+## Know what would change your mind
 
 In situations where you think technical due diligence is absolutely necessary, don't ask people to jump through hoops unless you can clearly articulate how your decision will be affected by it. If you want an estimate, make sure you already have an answer for how much is too much. If you want a technical report, make sure you are specific about the concerns they can address. 
 
