@@ -6,7 +6,7 @@ layout: page
 ## Thoughts on Leadership and Engineering
 
 
-![image](/assets/img/tree.jpg){: style="height : 300px; float:right; padding-left:30px;"}
+![image](/assets/img/BlogPhoto.png){: style="height : 300px; float:right; padding-left:30px;"}
 
 Hey there! I'm Adam Blahuta, an engineering leader that's spent the last 15 years building games, tools, and cross-functional teams in the video game industry.
 
