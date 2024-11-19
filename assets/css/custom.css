@@ -61,3 +61,9 @@
   height:70%;  
   padding: 60px 20px;  
 }
+
+@media screen and (max-width:625px) {
+  .book-entry-text {
+    font-size: 0.9rem;
+  }
+}
